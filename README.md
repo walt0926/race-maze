@@ -66,6 +66,7 @@ Proyecto académico desarrollado con Python y Pygame, enfocado en la implementac
 
 ## Autores
 
-** Walter Santos **
+**Walter Santos**
+**Patricia Alvarado**
 
 Programa ¡Supérate! Fundación Frech
